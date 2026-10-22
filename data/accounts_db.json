@@ -1,0 +1,75 @@
+[
+  {
+    "id": "me_alex",
+    "name": "Alex",
+    "amigosId": "alex_amigo",
+    "email": "alex.minwoo@amigos.com",
+    "phone": "010-1234-5678",
+    "password": "password123",
+    "avatar": "/src/assets/images/happy_white_kitten_1791348895355.jpg",
+    "statusMessage": "Cherishing good days with good people ☕️✨",
+    "createdAt": 1792134623091
+  },
+  {
+    "id": "user_minji",
+    "name": "Min-ji Kim",
+    "amigosId": "minji_k",
+    "email": "minji@amigos.com",
+    "phone": "010-2415-9988",
+    "password": "password123",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+    "statusMessage": "Anyone up for weekend cafe hopping? ☕️🌿",
+    "createdAt": 1792134723091
+  },
+  {
+    "id": "user_jihoon",
+    "name": "Ji-hoon Park",
+    "amigosId": "jihoon_dev",
+    "email": "jihoon@amigos.com",
+    "phone": "010-9182-3746",
+    "password": "password123",
+    "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=200&auto=format&fit=crop&q=80",
+    "statusMessage": "Project: Escape overtime work 💻🚀",
+    "createdAt": 1792134823091
+  },
+  {
+    "id": "user_soyeon",
+    "name": "So-yeon Lee",
+    "amigosId": "soyeon_lee",
+    "email": "soyeon@amigos.com",
+    "phone": "010-6754-1234",
+    "password": "password123",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&auto=format&fit=crop&q=80",
+    "statusMessage": "Pilates & healthy lifestyle 🥑🧘‍♀️",
+    "createdAt": 1792134923091
+  },
+  {
+    "id": "user_daniel",
+    "name": "Daniel Kang",
+    "amigosId": "daniel_music",
+    "email": "daniel@amigos.com",
+    "phone": "010-4491-0021",
+    "password": "password123",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+    "statusMessage": "Guitarist & Coffee Lover 🎸☕️",
+    "createdAt": 1792135023091
+  },
+  {
+    "id": "guest_1",
+    "name": "Guest Explorer",
+    "amigosId": "guest_player1",
+    "password": "password123",
+    "avatar": "/src/assets/images/chibi_golden_puppy_1791348861534.jpg",
+    "statusMessage": "Guest User (Online & Ready) ☕️",
+    "createdAt": 1792135123091
+  },
+  {
+    "id": "user_g_1792135627180",
+    "name": "VibeShare User",
+    "amigosId": "vibesharehelp",
+    "email": "vibeshare.help@gmail.com",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+    "statusMessage": "Signed in with Google Account ✨",
+    "createdAt": 1792135627180
+  }
+]

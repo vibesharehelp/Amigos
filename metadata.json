@@ -1,0 +1,9 @@
+{
+  "name": "Aaruchat",
+  "description": "Camera-first mobile social messaging app with real-time chats, creative filters, stories, discovery, and media editor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
